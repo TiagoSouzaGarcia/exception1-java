@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 import model.entities.Reservation;
-import model.entities.exceptions.DomainException;
+import model.exceptions.DomainException;
 
 public class Program {
 
